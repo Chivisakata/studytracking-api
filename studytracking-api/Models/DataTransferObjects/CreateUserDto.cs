@@ -1,7 +1,7 @@
 ﻿using studytracking_api.Models.Entities;
 using System.ComponentModel.DataAnnotations;
 
-namespace studytracking_api.Models
+namespace studytracking_api.Models.DataTransferObjects
 {
     public class CreateUserDto
     {
